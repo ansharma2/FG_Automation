@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{27C2317B-0B2D-4567-8270-2EA8A3A9E394}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="44238.2176967593" objectName="Aliases.browser.pageSeasonSearchResults.form.passwordboxEnterYourPassword" objectLeft="550" objectTop="273" objectRight="985" objectBottom="312" clickPointX="791" clickPointY="293" imageFileName="tcvi8954773413680.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="44238.2177083333" objectName="Aliases.browser.pageSeasonSearchResults.form.passwordboxEnterYourPassword" objectLeft="550" objectTop="273" objectRight="985" objectBottom="312" clickPointX="-1" clickPointY="-1" imageFileName="tcvi8954931213681.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="44238.2178356481" objectName="Aliases.browser.pageSeasonSearchResults.textnodeBirminghamNewStreetBhm" objectLeft="566" objectTop="312" objectRight="969" objectBottom="360" clickPointX="731" clickPointY="335" imageFileName="tcvi8956023413683.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="44238.2178703704" objectName="Aliases.browser.pageSeasonSearchResults.form.buttonSearchTickets.textnodeSearchTickets" objectLeft="466" objectTop="443" objectRight="573" objectBottom="463" clickPointX="500" clickPointY="454" imageFileName="tcvi8956312513684.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

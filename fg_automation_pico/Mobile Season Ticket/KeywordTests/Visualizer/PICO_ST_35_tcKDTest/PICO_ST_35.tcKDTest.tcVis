@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{01C40C66-B940-4978-9B77-24B5D814E031}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="44238.2818287037" objectName="Aliases.browser.pageSeasonSearchResults.textnodeLondonTerminalsToManches" objectLeft="284" objectTop="525" objectRight="452" objectBottom="561" clickPointX="345" clickPointY="549" imageFileName="tcvi9508950099200.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="44238.289375" objectName="Aliases.browser.pageSeasonSearchResults.textnodeLondonTerminalsToManches2" objectLeft="494" objectTop="525" objectRight="662" objectBottom="561" clickPointX="647" clickPointY="540" imageFileName="tcvi9574092199200.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

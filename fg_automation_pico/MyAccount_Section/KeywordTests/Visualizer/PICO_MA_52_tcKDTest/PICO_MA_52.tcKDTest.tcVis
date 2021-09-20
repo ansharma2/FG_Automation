@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{4B5E8CDF-B195-4EC2-8C33-11D643AAA28D}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="44229.2606481481" objectName="Aliases.browser.pageAccountMyBookings.linkRefundPolicy" objectLeft="611" objectTop="502" objectRight="717" objectBottom="532" clickPointX="647" clickPointY="516" imageFileName="tcvi546226574761.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="44229.2611111111" objectName="Aliases.browser.pageRefundJourney.buttonAgreeToAll" objectLeft="1036" objectTop="600" objectRight="1298" objectBottom="652" clickPointX="1154" clickPointY="630" imageFileName="tcvi550273474764.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

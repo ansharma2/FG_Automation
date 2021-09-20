@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{5C1394F7-D5B1-4901-8BA6-BA410EBDFF8D}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="20" kind="0" dateTime="44216.4889814815" objectName="Aliases.browser.pageCommerceGateway.formCommand.textboxAccntfirstname" objectLeft="308" objectTop="344" objectRight="714" objectBottom="374" clickPointX="364" clickPointY="363" imageFileName="tcvi25636750107600.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="21" kind="0" dateTime="44216.4890046296" objectName="Aliases.browser.pageCommerceGateway.formCommand.textboxAccntfirstname" objectLeft="308" objectTop="344" objectRight="714" objectBottom="374" clickPointX="-1" clickPointY="-1" imageFileName="tcvi25638953107601.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="22" kind="0" dateTime="44216.4890509259" objectName="Aliases.browser.pageCommerceGateway.formCommand.submitbuttonCancel" objectLeft="777" objectTop="653" objectRight="897" objectBottom="693" clickPointX="834" clickPointY="671" imageFileName="tcvi25642328107602.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="23" kind="0" dateTime="44216.4890856482" objectName="Aliases.browser.pageCommerceGateway.formCommand.submitbuttonContinue" objectLeft="930" objectTop="653" objectRight="1050" objectBottom="693" clickPointX="955" clickPointY="664" imageFileName="tcvi25646062107603.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="NextDayDate" key="{59407A3D-6857-49E8-9261-EFBEADA6C4BA}" path="NextDayDate.sj" />
+		<child name="Test1" key="{25982952-0B2F-461A-BAF1-8BCC3189353F}" path="Test1.sj" />
+		<child name="Date" key="{55AFB48D-9752-46D6-AC8F-DA1C94140519}" path="Date.sj" />
+	</children>
+</Root>

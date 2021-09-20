@@ -1,0 +1,13 @@
+﻿function OutDate()
+{
+
+var currentTime = new Date();
+var i = String(currentTime.getDate());
+i=parseInt(i);
+Log.Message(i);
+
+
+
+//Aliases.browser.pageAvantiWestCoastBookCheapTrai.FindElement("//a[text()=\'"+ i +"\']").Click();
+
+}

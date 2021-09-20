@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{F4968354-3EED-44D7-8354-A2BF02955801}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="19" kind="0" dateTime="44231.4540277778" objectName="Aliases.browser.pageSearchResults.textnodeSelectTicketType" objectLeft="229" objectTop="461" objectRight="356" objectBottom="482" clickPointX="293" clickPointY="474" imageFileName="tcvi2050453185960.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="23" kind="0" dateTime="44231.465162037" objectName="Aliases.explorer.wndShell_TrayWnd.ReBarWindow32.MSTaskSwWClass.MSTaskListWClass" objectLeft="488" objectTop="0" objectRight="1215" objectBottom="40" clickPointX="669" clickPointY="23" imageFileName="tcvi2146651565760.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

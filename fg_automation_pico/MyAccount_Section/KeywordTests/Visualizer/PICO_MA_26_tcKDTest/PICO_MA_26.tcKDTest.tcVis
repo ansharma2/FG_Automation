@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{9DAFBF8C-726E-48B4-ADF5-1FE6F92A4709}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="44218.442337963" objectName="Aliases.browser.pageLogin.form.textboxEnterYourEmailAddress" objectLeft="414" objectTop="351" objectRight="953" objectBottom="390" clickPointX="464" clickPointY="376" imageFileName="tcvi2342781224680.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="44218.4423611111" objectName="Aliases.browser.pageLogin.form.textboxEnterYourEmailAddress" objectLeft="414" objectTop="351" objectRight="953" objectBottom="390" clickPointX="-1" clickPointY="-1" imageFileName="tcvi2342970324681.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="44218.4425" objectName="Aliases.browser.pageLogin.form.passwordboxEnterYourPassword" objectLeft="414" objectTop="446" objectRight="953" objectBottom="485" clickPointX="477" clickPointY="468" imageFileName="tcvi2344246824682.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="44218.4425231482" objectName="Aliases.browser.pageLogin.form.passwordboxEnterYourPassword" objectLeft="414" objectTop="446" objectRight="953" objectBottom="485" clickPointX="-1" clickPointY="-1" imageFileName="tcvi2344390624683.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="44218.4425578704" objectName="Aliases.browser.pageLogin.form.buttonLogin" objectLeft="414" objectTop="557" objectRight="953" objectBottom="597" clickPointX="535" clickPointY="583" imageFileName="tcvi2344751524684.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

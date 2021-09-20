@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{E1A2D109-186D-42AE-A38F-B805FAD86F9E}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="32" kind="0" dateTime="44207.4874305556" objectName="Aliases.browser.pageSearchResults.button3.imageInfoIconDarkSvg2" objectLeft="432" objectTop="381" objectRight="448" objectBottom="397" clickPointX="438" clickPointY="387" imageFileName="tcvi25793093104001.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="46" kind="0" dateTime="44207.4891435185" objectName="Aliases.browser.pageSearchResults.textnode1204LondonEuston1230Tube" objectLeft="132" objectTop="204" objectRight="1218" objectBottom="631" clickPointX="1205" clickPointY="373" imageFileName="tcvi259409371040021.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

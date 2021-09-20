@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{1303D78B-4EDA-4635-9992-3456B1E5C250}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="44229.3925462963" objectName="Aliases.browser.pageAccountMyBookings.textnodeAllBookings2" objectLeft="979" objectTop="546" objectRight="1069" objectBottom="566" clickPointX="1004" clickPointY="555" imageFileName="tcvi16858343100960.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="44229.3925694444" objectName="Aliases.browser.pageAccountMyBookings.textnodePastJourney2" objectLeft="979" objectTop="629" objectRight="1226" objectBottom="677" clickPointX="1004" clickPointY="651" imageFileName="tcvi16860796100961.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

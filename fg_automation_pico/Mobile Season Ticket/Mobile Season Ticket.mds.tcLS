@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="data">
+			<Node name="logs">
+				<Prp name="key" type="S" value="{DC474529-7AD4-4419-B19B-7D63E7F28E4B}"/>
+				<Prp name="relpath" type="S" value="Log"/>
+			</Node>
+			<Node name="variables">
+				<Node name="datav4">
+					<Node name="var0">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="68007400740070003A002F002F003100390032002E003100360038002E00310032002E00310032003A00390030002F00"/>
+						</Node>
+						<Prp name="name" type="S" value="URL"/>
+					</Node>
+					<Node name="var1">
+						<Prp name="name" type="S" value="Password1"/>
+					</Node>
+					<Node name="var10">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="68007400740070003A002F002F003100390032002E003100360038002E00310032002E00310032003A00390030002F007400690063006B006500740073002F006C006F00670069006E00"/>
+						</Node>
+						<Prp name="name" type="S" value="pageLogin"/>
+					</Node>
+					<Node name="var11">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="68007400740070003A002F002F003100390032002E003100360038002E00310032002E00310032003A00390030002F007400690063006B006500740073002F0073006500610073006F006E002D007300650061007200630068002D0072006500730075006C0074007300"/>
+						</Node>
+						<Prp name="name" type="S" value="pageSeasonSearchResults"/>
+					</Node>
+					<Node name="var12">
+						<Prp name="name" type="S" value="UserID"/>
+					</Node>
+					<Node name="var13">
+						<Prp name="name" type="S" value="NewUserRegistrationID"/>
+					</Node>
+					<Node name="var14">
+						<Prp name="name" type="S" value="CardNo"/>
+					</Node>
+					<Node name="var15">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="680074007400700073003A002F002F0074006500730074006500700073002E006E006500740073007700670072006F00750070002E00690074002F005400520045004E005F00430047005F005700450042002F006100700070002F006500720072006F0072002F00610063006300650073007300"/>
+						</Node>
+						<Prp name="name" type="S" value="pageAccess"/>
+					</Node>
+					<Node name="var16">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="680074007400700073003A002F002F0074006500730074006100630073002E006E006500740073007700670072006F00750070002E00690074002F005300560049004C005F003300440053005F004100430053005F004700550049002F006200720077002F0061007500740068002F006F00740070002F0069006E00690074002A00"/>
+						</Node>
+						<Prp name="name" type="S" value="pageBankChallenge"/>
+					</Node>
+					<Node name="var17">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="680074007400700073003A002F002F0074006500730074006500700073002E006E006500740073007700670072006F00750070002E00690074002F005400520045004E005F00430047005F005700450042002F006100700070002F00630063002F007000610079006D0065006E0074002F0066006F0072006D002A00"/>
+						</Node>
+						<Prp name="name" type="S" value="pageCommerceGateway"/>
+					</Node>
+					<Node name="var18">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="680074007400700073003A002F002F0074006500730074006500700073002E006E006500740073007700670072006F00750070002E00690074002F005400520045004E005F00430047005F005700450042002F006100700070002F00630063002F006D00610069006E002F00730068006F0077002A00"/>
+						</Node>
+						<Prp name="name" type="S" value="pageShow"/>
+					</Node>
+					<Node name="var2">
+						<Prp name="name" type="S" value="Password2"/>
+					</Node>
+					<Node name="var3">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="68007400740070003A002F002F003100390032002E003100360038002E00310032002E00310032003A00390030002F00"/>
+						</Node>
+						<Prp name="name" type="S" value="pageAvantiWestCoastBookCheapTrai"/>
+					</Node>
+					<Node name="var4">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="68007400740070003A002F002F003100390032002E003100360038002E00310032002E00310032003A00390030002F007400690063006B006500740073002F00740072006100760065006C002D00650078007400720061007300"/>
+						</Node>
+						<Prp name="name" type="S" value="pageAvantiWestCoastBookCheapTrai2"/>
+					</Node>
+					<Node name="var5">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="68007400740070003A002F002F003100390032002E003100360038002E00310032002E00310032003A00390030002F007400690063006B006500740073002F0072006500670069007300740065007200"/>
+						</Node>
+						<Prp name="name" type="S" value="pageAvantiWestCoastBookCheapTrai3"/>
+					</Node>
+					<Node name="var6">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="68007400740070003A002F002F003100390032002E003100360038002E00310032002E00310032003A00390030002F007400690063006B006500740073002F00640065006C00690076006500720079002D006F007000740069006F006E007300"/>
+						</Node>
+						<Prp name="name" type="S" value="pageAvantiWestCoastBookCheapTrai4"/>
+					</Node>
+					<Node name="var7">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="68007400740070003A002F002F003100390032002E003100360038002E00310032002E00310032003A00390030002F007400690063006B006500740073002F00730068006F007000700069006E0067002D006200610073006B0065007400"/>
+						</Node>
+						<Prp name="name" type="S" value="pageAvantiWestCoastBookCheapTrai5"/>
+					</Node>
+					<Node name="var8">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="68007400740070003A002F002F003100390032002E003100360038002E00310032002E00310032003A00390030002F007400690063006B006500740073002F007000610079006D0065006E007400"/>
+						</Node>
+						<Prp name="name" type="S" value="pageAvantiWestCoastBookCheapTrai6"/>
+					</Node>
+					<Node name="var9">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="68007400740070003A002F002F003100390032002E003100360038002E00310032002E00310032003A00390030002F007400690063006B006500740073002F0062006F006F006B0069006E0067002D0063006F006E006600690072006D006100740069006F006E00"/>
+						</Node>
+						<Prp name="name" type="S" value="pageAvantiWestCoastBookCheapTrai7"/>
+					</Node>
+				</Node>
+				<Prp name="version" type="I" value="4"/>
+			</Node>
+		</Node>
+		<Prp name="signature" type="S" value="{49FC0C30-9EF7-4DBD-97A8-B7A00E79A2AF}"/>
+	</Node>
+</Nodes>

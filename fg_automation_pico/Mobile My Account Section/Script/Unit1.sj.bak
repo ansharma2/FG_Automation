@@ -1,0 +1,9 @@
+﻿function Test()
+{
+
+//var url = "http://192.168.12.12:90/tickets/account-my-bookings";
+
+//var page = Sys.Browser("*").Page(url);
+Browsers.Item(btChrome).Run("http://192.168.12.12:90/tickets/account-my-bookings").FindElement("//div[contains(text(),\'Booked\']");
+
+}

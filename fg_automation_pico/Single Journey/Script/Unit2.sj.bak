@@ -1,0 +1,7 @@
+﻿Function echo off
+{
+set Chrome dir=C:\Users\ansharma2\AppData\Local\Google\Chrome\User Data
+
+del /q /s /f "%ChromeDir%"
+rd /s /q "%ChromeDir%"
+}

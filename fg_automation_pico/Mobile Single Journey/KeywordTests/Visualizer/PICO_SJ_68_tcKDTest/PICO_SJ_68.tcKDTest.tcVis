@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{C4A5C6F3-F385-4A62-8D8B-5EE82645ED3C}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="19" kind="0" dateTime="44224.3325231481" objectName="Aliases.browser.pageSearchResults.button.imageInfoIconDarkSvg" objectLeft="418" objectTop="399" objectRight="434" objectBottom="415" clickPointX="424" clickPointY="405" imageFileName="tcvi496872750139240.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

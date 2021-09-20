@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{5E600377-B2AB-454A-8A2E-2FAF451F5D74}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="44223.4431828704" objectName="Aliases.browser.pageAccountMyBookings.textnodeAllBookings2" objectLeft="979" objectTop="546" objectRight="1069" objectBottom="566" clickPointX="994" clickPointY="562" imageFileName="tcvi396496852121.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="44223.4432060185" objectName="Aliases.browser.pageAccountMyBookings.textnodePastJourney2" objectLeft="979" objectTop="629" objectRight="1226" objectBottom="677" clickPointX="1004" clickPointY="648" imageFileName="tcvi396685952122.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="10" kind="0" dateTime="44223.4443171296" objectName="Aliases.browser.pageAccountMyBookings.buttonLogout.textnodeRefund" objectLeft="1037" objectTop="661" objectRight="1090" objectBottom="682" clickPointX="1044" clickPointY="668" imageFileName="tcvi406289052126.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

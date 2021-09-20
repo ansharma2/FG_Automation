@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{053FBD03-988F-4F3C-BF9D-41CF3DA8071D}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="25" kind="0" dateTime="44204.5488773148" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai.textboxReturnjourneydatetime" objectLeft="981" objectTop="467" objectRight="1228" objectBottom="505" clickPointX="1017" clickPointY="483" imageFileName="tcvi3162743760601.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="29" kind="0" dateTime="44204.548900463" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai.link26" objectLeft="453" objectTop="451" objectRight="490" objectBottom="487" clickPointX="476" clickPointY="469" imageFileName="tcvi3163010960602.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="30" kind="0" dateTime="44204.5489236111" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai.buttonApply2" objectLeft="386" objectTop="608" objectRight="962" objectBottom="653" clickPointX="628" clickPointY="622" imageFileName="tcvi3163212560603.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

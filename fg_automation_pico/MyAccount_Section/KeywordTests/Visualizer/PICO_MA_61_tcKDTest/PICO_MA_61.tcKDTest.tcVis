@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{42367F28-CAC5-472C-A5FA-25F9926F700D}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="44225.4443055556" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai.textnode.textnode3.linkMyAccount" objectLeft="720" objectTop="71" objectRight="825" objectBottom="108" clickPointX="772" clickPointY="84" imageFileName="tcvi22319343119720.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="44225.4452314815" objectName="Aliases.browser.pageAccountMyBookings.panel10" objectLeft="-1" objectTop="-1" objectRight="-1" objectBottom="-1" clickPointX="-1" clickPointY="-1" imageFileName="tcvi22399265119725.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="44225.4458796296" objectName="Aliases.browser.pageAccountMyBookings.panel3" objectLeft="400" objectTop="622" objectRight="700" objectBottom="646" clickPointX="460" clickPointY="635" imageFileName="tcvi22455703119728.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

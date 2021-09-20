@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{049378EB-1E17-4C26-AE1E-DE211EFDBAC5}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="44221.5560069444" objectName="Aliases.browser.pageAccountMyBookings.buttonWelcomeSandip.textnodeWelcomeSandip" objectLeft="1025" objectTop="78" objectRight="1214" objectBottom="99" clickPointX="1096" clickPointY="88" imageFileName="tcvi3098810993840.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

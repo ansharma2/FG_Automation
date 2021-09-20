@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="log data">
+			<Node name="row2">
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="details" type="S" value="{E325434A-3D3D-44A6-8C9C-7D7B3A6DF349}"/>
+				<Prp name="index" type="I" value="2"/>
+				<Prp name="end time" type="D" value="44288.6693965393"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="name" type="S" value="Keyword Test Log [PICO_OR_64]"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="start time" type="D" value="44288.6676538657"/>
+			</Node>
+			<Node name="row1">
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="details" type="S" value="{584136F2-E1A2-4051-BD4F-F92C95861C4E}"/>
+				<Prp name="index" type="I" value="1"/>
+				<Prp name="end time" type="D" value="44288.6676535764"/>
+				<Prp name="status" type="I" value="2"/>
+				<Prp name="name" type="S" value="PICO_OR_63 [KeywordTests - PICO_OR_63]"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="start time" type="D" value="44288.665663125"/>
+			</Node>
+			<Node name="row0">
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="details" type="S" value="{40233AF4-F94D-4EAF-9C99-58CD061ADAFA}"/>
+				<Prp name="index" type="I" value="0"/>
+				<Prp name="end time" type="D" value="44288.6656628472"/>
+				<Prp name="status" type="I" value="2"/>
+				<Prp name="name" type="S" value="PICO_OR_62 [KeywordTests - PICO_OR_62]"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="start time" type="D" value="44288.6635798148"/>
+			</Node>
+		</Node>
+	</Node>
+</Nodes>

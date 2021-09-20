@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="log data">
+			<Node name="row3">
+				<Prp name="details" type="S" value="{24B182D9-8C70-43CD-84A9-E25FCF71D453}"/>
+				<Prp name="name" type="S" value="PICO_OR_100 [KeywordTests - PICO_OR_100]"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="index" type="I" value="3"/>
+				<Prp name="status" type="I" value="2"/>
+				<Prp name="end time" type="D" value="44259.7181687963"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="start time" type="D" value="44259.7143634838"/>
+			</Node>
+			<Node name="row4">
+				<Prp name="details" type="S" value="{38A6F9AD-683E-471D-8264-46223157B330}"/>
+				<Prp name="name" type="S" value="PICO_OR_101 [KeywordTests - PICO_OR_101]"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="index" type="I" value="4"/>
+				<Prp name="status" type="I" value="2"/>
+				<Prp name="end time" type="D" value="44259.7184009954"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="start time" type="D" value="44259.7181690394"/>
+			</Node>
+			<Node name="row1">
+				<Prp name="details" type="S" value="{D0FEF862-67FC-4FE9-AB3D-34A9CD476694}"/>
+				<Prp name="name" type="S" value="PICO_OR_05 [KeywordTests - PICO_OR_05]"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="index" type="I" value="1"/>
+				<Prp name="status" type="I" value="1"/>
+				<Prp name="end time" type="D" value="44259.7139627315"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="start time" type="D" value="44259.7135573958"/>
+			</Node>
+			<Node name="row5">
+				<Prp name="details" type="S" value=""/>
+				<Prp name="name" type="S" value="The execution process was interrupted."/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="index" type="I" value="5"/>
+				<Prp name="status" type="I" value="2"/>
+				<Prp name="end time" type="D" value="44259.7184009954"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="start time" type="D" value="44259.7184009954"/>
+			</Node>
+			<Node name="row0">
+				<Prp name="details" type="S" value="{44C7A185-8146-4899-A16D-08F9A07F1CE6}"/>
+				<Prp name="name" type="S" value="PICO_OR_01 [KeywordTests - PICO_OR_01]"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="index" type="I" value="0"/>
+				<Prp name="status" type="I" value="2"/>
+				<Prp name="end time" type="D" value="44259.7135572685"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="start time" type="D" value="44259.7126997222"/>
+			</Node>
+			<Node name="row2">
+				<Prp name="details" type="S" value="{71258798-C610-425B-8267-391592EAD414}"/>
+				<Prp name="name" type="S" value="PICO_OR_06 [KeywordTests - PICO_OR_06]"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="index" type="I" value="2"/>
+				<Prp name="status" type="I" value="1"/>
+				<Prp name="end time" type="D" value="44259.714363206"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="start time" type="D" value="44259.7139628819"/>
+			</Node>
+		</Node>
+	</Node>
+</Nodes>

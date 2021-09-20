@@ -1,0 +1,10 @@
+﻿function CaptureCursor()
+{
+  // Obtains the coordinates of the mouse pointer
+  X = Sys.Desktop.MouseX;
+  Y = Sys.Desktop.MouseY;
+  // Captures a rectangle area of the desktop including the mouse cursor
+  pics = Sys.Desktop.Picture(X-1, Y-1, 70,20, true);
+  // Posts the captured image to the test log
+  Log.Picture(pics);
+}

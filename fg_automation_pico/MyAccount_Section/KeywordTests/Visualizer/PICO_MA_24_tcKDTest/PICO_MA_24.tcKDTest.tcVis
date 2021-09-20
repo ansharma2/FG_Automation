@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{6D9863A1-0B4A-4733-A1D5-3703241FC5DD}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="44218.4387152778" objectName="Aliases.browser.pageLogin.form.passwordboxEnterYourPassword" objectLeft="414" objectTop="446" objectRight="953" objectBottom="485" clickPointX="462" clickPointY="465" imageFileName="tcvi2311470324680.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="44218.43875" objectName="Aliases.browser.pageLogin.form.passwordboxEnterYourPassword" objectLeft="414" objectTop="446" objectRight="953" objectBottom="485" clickPointX="-1" clickPointY="-1" imageFileName="tcvi2311768724681.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="44218.4388310185" objectName="Aliases.browser.pageLogin.form.buttonLogin" objectLeft="414" objectTop="557" objectRight="953" objectBottom="597" clickPointX="561" clickPointY="579" imageFileName="tcvi2312496824683.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

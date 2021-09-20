@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{B897A333-621C-4767-8E54-EDAC62172ACB}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="44236.4129166667" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai.footer.textnode" objectLeft="1001" objectTop="780" objectRight="1017" objectBottom="810" clickPointX="1007" clickPointY="791" imageFileName="tcvi1843178125281.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="44236.4129513889" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai.textnodeBuyTicketsTrainTimesSeas.linkSeasonTickets" objectLeft="376" objectTop="482" objectRight="479" objectBottom="506" clickPointX="449" clickPointY="493" imageFileName="tcvi1843534325282.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="23" kind="0" dateTime="44236.487337963" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai.checkbox" objectLeft="520" objectTop="299" objectRight="552" objectBottom="321" clickPointX="529" clickPointY="307" imageFileName="tcvi2486198465441.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="26" kind="0" dateTime="44236.4258449074" objectName="Aliases.browser.BrowserWindow" objectLeft="0" objectTop="0" objectRight="1040" objectBottom="856" clickPointX="-1" clickPointY="-1" imageFileName="tcvi1954934325282.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

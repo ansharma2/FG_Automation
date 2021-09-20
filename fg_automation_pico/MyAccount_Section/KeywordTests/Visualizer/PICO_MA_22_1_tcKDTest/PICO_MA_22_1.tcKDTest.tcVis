@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{158FAB14-BB60-4E5C-9277-50487BB8663A}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="44221.5653587963" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai.textnode.textnode3.linkMyAccount" objectLeft="720" objectTop="71" objectRight="825" objectBottom="108" clickPointX="764" clickPointY="88" imageFileName="tcvi3179587536840.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="44221.5659606481" objectName="Aliases.browser.pageAccountMyBookings.buttonWelcomeSandip.textnodeWelcomeSandip" objectLeft="1035" objectTop="78" objectRight="1213" objectBottom="99" clickPointX="1185" clickPointY="86" imageFileName="tcvi3184848436845.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="44221.5659837963" objectName="Aliases.browser.pageAccountMyBookings.buttonLogout" objectLeft="1075" objectTop="155" objectRight="1187" objectBottom="203" clickPointX="1124" clickPointY="182" imageFileName="tcvi3185028136846.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="44221.5661111111" objectName="Aliases.browser.pageAccountMyBookings.buttonYes.textnodeYes" objectLeft="772" objectTop="459" objectRight="797" objectBottom="479" clickPointX="787" clickPointY="472" imageFileName="tcvi3186087536848.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

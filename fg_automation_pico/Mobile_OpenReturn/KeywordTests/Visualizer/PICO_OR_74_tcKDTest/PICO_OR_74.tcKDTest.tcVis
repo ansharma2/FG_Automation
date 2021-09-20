@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{7CF87855-C795-4E52-8AEF-35F20D77CA44}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="9" kind="0" dateTime="44236.5668287037" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai4.textboxMatInput0" objectLeft="280" objectTop="643" objectRight="556" objectBottom="682" clickPointX="306" clickPointY="661" imageFileName="tcvi2590460985522.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="10" kind="0" dateTime="44236.5668634259" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai4.textboxMatInput0" objectLeft="280" objectTop="643" objectRight="556" objectBottom="682" clickPointX="-1" clickPointY="-1" imageFileName="tcvi2590726585523.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="12" kind="0" dateTime="44236.5689814815" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai4.buttonAdd.textnodeAdd" objectLeft="607" objectTop="653" objectRight="638" objectBottom="673" clickPointX="612" clickPointY="664" imageFileName="tcvi2609051585520.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

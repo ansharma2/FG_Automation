@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{029BC820-902D-4AA2-8144-E7BC9000AC31}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="44211.314849537" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai6.textboxMatInput0" objectLeft="385" objectTop="525" objectRight="722" objectBottom="564" clickPointX="514" clickPointY="544" imageFileName="tcvi98052039240.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="9" kind="0" dateTime="44211.3148611111" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai6.textboxMatInput0" objectLeft="385" objectTop="525" objectRight="722" objectBottom="564" clickPointX="-1" clickPointY="-1" imageFileName="tcvi98069849241.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="11" kind="0" dateTime="44211.3150578704" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai6.textboxMatInput0" objectLeft="385" objectTop="525" objectRight="722" objectBottom="564" clickPointX="573" clickPointY="542" imageFileName="tcvi98233599242.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="12" kind="0" dateTime="44211.3150810185" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai6.textboxMatInput0" objectLeft="385" objectTop="525" objectRight="722" objectBottom="564" clickPointX="-1" clickPointY="-1" imageFileName="tcvi98256409243.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="13" kind="0" dateTime="44211.3152546296" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai6.buttonAdd.textnodeAdd" objectLeft="782" objectTop="535" objectRight="813" objectBottom="555" clickPointX="793" clickPointY="544" imageFileName="tcvi98402509244.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

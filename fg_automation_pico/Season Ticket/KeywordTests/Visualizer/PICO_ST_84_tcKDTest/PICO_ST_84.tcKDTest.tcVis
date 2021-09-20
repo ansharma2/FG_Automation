@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{B31F5B87-43D9-44F5-8484-3421A04495A3}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="19" kind="0" dateTime="44235.4820138889" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai7.button.imageEditIconSvg" objectLeft="720" objectTop="579" objectRight="732" objectBottom="591" clickPointX="726" clickPointY="584" imageFileName="tcvi512254453123521.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="20" kind="0" dateTime="44235.4820601852" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai7.form.textboxEnterPostcode" objectLeft="457" objectTop="827" objectRight="945" objectBottom="866" clickPointX="585" clickPointY="837" imageFileName="tcvi512258031123522.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="21" kind="0" dateTime="44235.4820717593" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai7.form.textboxEnterPostcode" objectLeft="457" objectTop="827" objectRight="945" objectBottom="866" clickPointX="-1" clickPointY="-1" imageFileName="tcvi512259359123523.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="22" kind="0" dateTime="44235.4821527778" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai7.form.buttonCreate.textnodeCreate" objectLeft="1396" objectTop="1060" objectRight="1450" objectBottom="1080" clickPointX="1442" clickPointY="1065" imageFileName="tcvi512266812123524.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

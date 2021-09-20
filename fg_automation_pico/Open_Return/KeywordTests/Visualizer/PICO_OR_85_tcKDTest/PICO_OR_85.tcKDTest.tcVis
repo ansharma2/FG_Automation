@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{3395482D-C72A-4B8F-BD9A-A5B9080D7E11}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="44211.5002662037" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai4.buttonAddAnotherJourney.textnodeAddAnotherJourney" objectLeft="132" objectTop="609" objectRight="291" objectBottom="629" clickPointX="186" clickPointY="620" imageFileName="tcvi2489843787924.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="44211.500474537" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai4.form.buttonCancel.textnodeCancel" objectLeft="788" objectTop="535" objectRight="841" objectBottom="556" clickPointX="810" clickPointY="547" imageFileName="tcvi2491584387927.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

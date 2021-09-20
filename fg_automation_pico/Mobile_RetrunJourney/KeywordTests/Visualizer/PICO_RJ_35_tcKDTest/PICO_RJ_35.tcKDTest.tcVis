@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{2F812F32-8F57-4EE4-AEEF-8806A146BA7E}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="11" kind="0" dateTime="44245.3190625" objectName="Aliases.browser.pageSearchResults.buttonShowHelp.textnodeShowHelp" objectLeft="870" objectTop="215" objectRight="951" objectBottom="236" clickPointX="878" clickPointY="229" imageFileName="tcvi1101610989200.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="Unit1" key="{FB31296C-F3AC-48C8-A145-10239A48A776}" path="Unit1.sj" />
+		<child name="PICO_SJ_07" key="{7C9231FB-411A-4DD1-9A08-060B44881519}" path="PICO_SJ_07.sj" />
+		<child name="Unit2" key="{C2F51037-BCEF-4FAD-B927-895C6F915864}" path="Unit2.sj" />
+	</children>
+</Root>

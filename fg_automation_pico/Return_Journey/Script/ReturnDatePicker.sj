@@ -1,0 +1,22 @@
+﻿function ReturnDate()
+{
+
+var currentTime = new Date();
+var i = String(currentTime.getDate());
+i=parseInt(i);
+Log.Message(i);
+i=i+13;
+//i=9;
+if( i>30)
+
+//var a = Math.round(i/30);
+var a = parseInt((i/30),10);
+
+
+i =i%30;
+Log.Message(i);
+Aliases.browser.pageAvantiWestCoastBookCheapTrai.FindElement("(//a[contains(.,"+ i +")])[3]").Click();
+//Aliases.browser.pageAvantiWestCoastBookCheapTrai.FindElement("//a[text()=\'"+ i +"\']").Click();
+
+}
+

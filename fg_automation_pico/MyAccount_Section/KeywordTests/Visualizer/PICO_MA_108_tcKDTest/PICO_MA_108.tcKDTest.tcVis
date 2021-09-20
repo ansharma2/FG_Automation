@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{DFDDE076-5EDD-497A-95EA-BFFE80829A37}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="44224.5306597222" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai7.form.textboxChooseFavoriteStation" objectLeft="166" objectTop="591" objectRight="747" objectBottom="630" clickPointX="269" clickPointY="612" imageFileName="tcvi3014685987201.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="44224.5306944444" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai7.form.textboxChooseFavoriteStation" objectLeft="166" objectTop="591" objectRight="747" objectBottom="630" clickPointX="-1" clickPointY="-1" imageFileName="tcvi3014992187202.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="44224.530787037" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai7.textnodeLondonEustonEus" objectLeft="182" objectTop="630" objectRight="731" objectBottom="678" clickPointX="243" clickPointY="659" imageFileName="tcvi3015790687203.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="44224.5308101852" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai7.form.panel8" objectLeft="151" objectTop="576" objectRight="1199" objectBottom="630" clickPointX="799" clickPointY="614" imageFileName="tcvi3016043787204.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

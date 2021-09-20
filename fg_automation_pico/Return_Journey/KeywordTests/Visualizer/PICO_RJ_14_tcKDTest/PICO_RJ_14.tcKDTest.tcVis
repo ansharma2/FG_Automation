@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{0265656F-2BDB-4943-A53D-13548F640772}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="44217.52375" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai.panel9" objectLeft="0" objectTop="571" objectRight="1349" objectBottom="1378" clickPointX="630" clickPointY="586" imageFileName="tcvi281455311720.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="44217.5241087963" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai.textnodeMyAccountSignInMenuYouAr" objectLeft="0" objectTop="-193" objectRight="1349" objectBottom="2227" clickPointX="-1" clickPointY="-1" imageFileName="tcvi281759371722.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="13" kind="0" dateTime="44217.5245949074" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai.linkAddRailcard" objectLeft="981" objectTop="537" objectRight="1069" objectBottom="555" clickPointX="1023" clickPointY="548" imageFileName="tcvi282185151724.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="18" kind="0" dateTime="44217.5251157407" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai.buttonIncrementamount" objectLeft="1178" objectTop="414" objectRight="1203" objectBottom="439" clickPointX="1187" clickPointY="423" imageFileName="tcvi2826323417212.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

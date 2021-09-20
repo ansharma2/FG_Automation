@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{7BF59065-B501-4D30-BB98-7B4CD8D19E39}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="44231.4932291667" objectName="Aliases.browser.pageSearchResults.buttonEditOrFilter.textnodeEditOrFilter" objectLeft="151" objectTop="561" objectRight="239" objectBottom="582" clickPointX="178" clickPointY="573" imageFileName="tcvi2389178110440.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="44231.4933101852" objectName="Aliases.browser.pageSearchResults.form.button3" objectLeft="41" objectTop="659" objectRight="66" objectBottom="684" clickPointX="53" clickPointY="677" imageFileName="tcvi2389846810442.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="9" kind="0" dateTime="44231.4934143519" objectName="Aliases.browser.pageSearchResults.form.button4" objectLeft="262" objectTop="659" objectRight="287" objectBottom="684" clickPointX="277" clickPointY="672" imageFileName="tcvi2390787510444.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="11" kind="0" dateTime="44231.4935416667" objectName="Aliases.browser.pageSearchResults.buttonContinue" objectLeft="24" objectTop="704" objectRight="294" objectBottom="741" clickPointX="179" clickPointY="704" imageFileName="tcvi2391823410445.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

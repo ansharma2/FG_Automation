@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{D65DAE1A-8E24-4DC9-8392-D5EC09BC6F8D}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="44246.4789351852" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai4.form.textboxEnterYourEmailAddress" objectLeft="296" objectTop="416" objectRight="745" objectBottom="455" clickPointX="581" clickPointY="446" imageFileName="tcvi7544375089560.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="44246.4790509259" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai4.form.textboxEnterYourEmailAddress" objectLeft="296" objectTop="416" objectRight="745" objectBottom="455" clickPointX="-1" clickPointY="-1" imageFileName="tcvi7544587589561.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="9" kind="0" dateTime="44246.4791203704" objectName="Aliases.browser.pageAvantiWestCoastBookCheapTrai4.form.buttonSendEmail.textnodeSendEmail" objectLeft="479" objectTop="494" objectRight="562" objectBottom="514" clickPointX="518" clickPointY="511" imageFileName="tcvi7545970389562.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

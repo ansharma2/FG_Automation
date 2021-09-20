@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{9D1FBED2-4A2F-45F4-8A6D-D3B50CF8B647}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="44221.5710532407" objectName="Aliases.browser.pageAccountMyBookings.buttonNo" objectLeft="680" objectTop="449" objectRight="744" objectBottom="489" clickPointX="692" clickPointY="474" imageFileName="tcvi3228845336840.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

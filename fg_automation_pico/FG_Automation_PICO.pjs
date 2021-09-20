@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{79F47B19-F9C7-437A-8885-125FEA8AC78D}">
+	<children>
+		<child name="Single Journey" key="{9A722DC5-F532-4400-A529-08C50A19EB8E}" path="Single Journey\Single Journey.mds" />
+		<child name="Season Ticket" key="{81E18257-EDAC-4557-8CC3-8E35BA708F81}" path="Season Ticket\Season Ticket.mds" />
+		<child name="Mobile Single Journey" key="{4228171F-724F-474F-B530-4F1D8972F025}" path="Mobile Single Journey\Mobile Single Journey.mds" />
+		<child name="Mobile Season Ticket" key="{74ECA4DA-2C31-40B7-92E9-35EF7302BFE9}" path="Mobile Season Ticket\Mobile Season Ticket.mds" />
+		<child name="Mobile My Account Section" key="{4F55AF72-10DA-4DEB-A16B-C8DBF105C753}" path="Mobile My Account Section\Mobile My Account Section.mds" />
+		<child name="Open_Return" key="{7D03C20A-604C-4076-9E32-2049E4D02824}" path="Open_Return\Open_Return.mds" />
+		<child name="Return_Journey" key="{9F7DCE85-4242-40B7-B8D8-E1750315C898}" path="Return_Journey\Return_Journey.mds" />
+		<child name="MyAccount_Section" key="{C66C9A8B-5A6C-4745-976F-645AE170BA14}" path="MyAccount_Section\MyAccount_Section.mds" />
+		<child name="Mobile_OpenReturn" key="{92A0A7B3-FD01-49DA-BFD5-8FE31069BF68}" path="Mobile_OpenReturn\Mobile_OpenReturn.mds" />
+		<child name="Mobile_RetrunJourney" key="{63B8384D-5224-4A9D-85A2-0A00A05E11E3}" path="Mobile_RetrunJourney\Mobile_RetrunJourney.mds" />
+	</children>
+	<testItems key="{1FEBD193-B3C3-485F-869D-3095BC72833D}">
+		<children>
+			<testItem key="{9A722DC5-F532-4400-A529-08C50A19EB8E}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{81E18257-EDAC-4557-8CC3-8E35BA708F81}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{4228171F-724F-474F-B530-4F1D8972F025}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{74ECA4DA-2C31-40B7-92E9-35EF7302BFE9}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{4F55AF72-10DA-4DEB-A16B-C8DBF105C753}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{7D03C20A-604C-4076-9E32-2049E4D02824}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{9F7DCE85-4242-40B7-B8D8-E1750315C898}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{C66C9A8B-5A6C-4745-976F-645AE170BA14}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{92A0A7B3-FD01-49DA-BFD5-8FE31069BF68}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{63B8384D-5224-4A9D-85A2-0A00A05E11E3}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{B9B8237E-B413-4A2E-9FB0-581A547435D2}" />
+	<analysis key="{04E0A879-28C8-43DF-AF8E-23A90563F369}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>
