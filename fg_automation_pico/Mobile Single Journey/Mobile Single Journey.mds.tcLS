@@ -95,6 +95,12 @@
 						</Node>
 						<Prp name="name" type="S" value="pageShow"/>
 					</Node>
+					<Node name="var22">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="6300680072006F006D0065003A002F002F00730065007400740069006E00670073002F007000720069007600610063007900"/>
+						</Node>
+						<Prp name="name" type="S" value="pageSettings"/>
+					</Node>
 					<Node name="var3">
 						<Prp name="name" type="S" value="Password3"/>
 					</Node>

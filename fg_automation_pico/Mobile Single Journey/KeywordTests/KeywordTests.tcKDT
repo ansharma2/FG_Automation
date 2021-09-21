@@ -128,5 +128,6 @@
 		<child name="ClearCache" key="{9BB71CB7-B318-40C9-AF28-91EFB9C3BF22}" path="ClearCache.tcKDTest" />
 		<child name="StationsSearch" key="{1A250C0E-E689-45DB-A088-458D1E53C42C}" path="StationsSearch.tcKDTest" />
 		<child name="SingleTickets" key="{11F05B7B-8CB9-4527-BD4A-5A4E627B088A}" path="SingleTickets.tcKDTest" />
+		<child name="BrowserCloseCheck" key="{0C08E543-5608-4FED-8841-1D29CC6DDAF0}" path="BrowserCloseCheck.tcKDTest" />
 	</children>
 </Root>

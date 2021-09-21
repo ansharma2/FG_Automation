@@ -9445,7 +9445,7 @@
 										<Value Value="Page" />
 									</Property>
 									<Property Name="URL">
-										<Value Value="chrome://settings/" />
+										<Value PropertyType="1" LocalVariable="pageSettings" />
 									</Property>
 								</Properties>
 							</Child>
