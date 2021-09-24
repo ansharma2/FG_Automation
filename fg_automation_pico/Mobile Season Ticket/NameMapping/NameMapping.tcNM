@@ -761,16 +761,19 @@
 										<TypeInfo Item0="{CBC1E1D6-7462-4DBB-BEA2-496A3AE9C5F6}" />
 										<Selectors>
 											<Selector>
+												<Value Value="//div[@id=&apos;m_filtersearchDeparture_ST&apos;]/div/div/div" />
+											</Selector>
+											<Selector>
 												<Value Value="//div[text()=&apos;London Euston (EUS)&apos;]" />
 											</Selector>
 											<Selector>
 												<Value Value="#m_filtersearchDeparture_ST &gt; .column:nth-child(1) .return-station-name" />
 											</Selector>
 											<Selector>
-												<Value Value="//div[@id=&apos;m_filtersearchDeparture_ST&apos;]/div/div/div" />
+												<Value Value="//div[2]/div[3]/div/div/div/div/div" />
 											</Selector>
 											<Selector>
-												<Value Value="//div[2]/div[3]/div/div/div/div/div" />
+												<Value Value="" />
 											</Selector>
 										</Selectors>
 									</Child>
@@ -6521,7 +6524,7 @@
 										<Value Value="Page" />
 									</Property>
 									<Property Name="URL">
-										<Value Value="chrome://settings/" />
+										<Value PropertyType="1" LocalVariable="pageSettings" />
 									</Property>
 								</Properties>
 							</Child>
